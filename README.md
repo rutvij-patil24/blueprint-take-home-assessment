@@ -10,6 +10,7 @@ React application that standardizes ad data from 3 platforms (Facebook, Twitter,
 
 ## Features
 - Multi-platform data standardization with consistent field mapping
-- Google Analytics integration using exact and fuzzy matching
+- Google Analytics integration using exact and fuzzy matching algorithm
 - Campaign search and spend-based sorting
 - Responsive card layout with platform badges
+- Display CTR and CTC for each Ad (optional feature)

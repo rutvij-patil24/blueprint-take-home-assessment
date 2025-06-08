@@ -78,7 +78,7 @@ const AdCard = ({ ad }) => {
         </div>
       </div>
 
-      {/* Performance indicators */}
+      {/* Performance indicators (optional additional feature) */}
       {/* <div className="mt-4 pt-4 border-t border-gray-200">
         <div className="flex justify-between text-sm">
           <div>
